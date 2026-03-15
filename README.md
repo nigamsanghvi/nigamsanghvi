@@ -96,22 +96,6 @@ Django • PostgreSQL • Web Development
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nigamsanghvi&theme=algolia"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nigamsanghvi&theme=tokyo-night"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">

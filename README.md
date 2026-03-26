@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nigam Sanghvi</h1>
+<!--<h1 align="center">Hi 👋, I'm Nigam Sanghvi</h1>
 <h3 align="center">MSc IT Student | Software Developer | Web Development Enthusiast</h3>
 
 <p align="center">
@@ -118,8 +118,8 @@ nnigamsanghvi@gmail.com
 
 ---
 
-⭐ **Always learning, building, and exploring new technologies.**
-<!--# Hi there 👋, I'm Nigam Sanghvi
+⭐ **Always learning, building, and exploring new technologies.**-->
+# Hi there 👋, I'm Nigam Sanghvi
 
 💻 **MSc IT Student | Software Developer | Web Development Enthusiast**  
 🚀 Passionate about building real-world tech solutions and learning modern technologies.  
@@ -204,4 +204,4 @@ A hackathon project focused on protecting mangrove forests through community-dri
 
 ---
 
-⭐ **Always learning, building, and exploring new technologies.**-->
+⭐ **Always learning, building, and exploring new technologies.**
